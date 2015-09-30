@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮疑義舉要
-#+DATE: 2015-09-23 09:37:38
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:08:23.260187
+#+PROPERTY: ID KR1d0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1d0024_WYG_007-1a>¶
 欽定四庫全書¶
 　周禮疑義舉要卷七¶
@@ -380,4 +382,3 @@
 　¶
 　¶
 　周禮疑義舉要巻七¶
-
